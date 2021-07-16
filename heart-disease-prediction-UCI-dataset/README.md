@@ -7,4 +7,4 @@
 - __Decision Tree Classifier:__ Decision tree maximum performance based on number of features
 - __Random forest classifier:__ Classification behavior based on different number of estimators
 
-Concluded KNN model with certain parameters well suited for use case and pickle dum :)
+Concluded KNN model with certain parameters well suited for use case and pickle dump :)
